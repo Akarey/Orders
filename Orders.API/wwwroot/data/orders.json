@@ -1,0 +1,50 @@
+[
+  {
+    "customerId": 7,
+    "kitsNumber": 23,
+    "deliveryDate": "2023-04-28",
+    "price": 2162.93
+  },
+  {
+    "customerId": 7,
+    "kitsNumber": 10,
+    "deliveryDate": "2023-04-28",
+    "price": 940.41
+  },
+  {
+    "customerId": 7,
+    "kitsNumber": 100,
+    "deliveryDate": "2023-04-28",
+    "price": 8414.15
+  },
+  {
+    "customerId": 7,
+    "kitsNumber": 100,
+    "deliveryDate": "2023-04-28",
+    "price": 8414.15
+  },
+  {
+    "customerId": 7,
+    "kitsNumber": 990,
+    "deliveryDate": "2023-04-28",
+    "price": 83300.09
+  },
+  {
+    "customerId": 7,
+    "kitsNumber": 990,
+    "deliveryDate": "2023-04-28",
+    "price": 83300.09
+  },
+  {
+    "customerId": 7,
+    "kitsNumber": 990,
+    "deliveryDate": "2023-04-28",
+    "price": 83300.09
+  },
+  {
+    "customerId": 7,
+    "kitsNumber": 999,
+    "deliveryDate": "2023-04-28",
+    "price": 84057.36
+  }
+]
